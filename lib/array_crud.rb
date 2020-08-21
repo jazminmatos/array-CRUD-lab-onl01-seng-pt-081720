@@ -20,7 +20,7 @@ end
 
 #5
 def remove_element_from_end_of_array(array)
-  
+  array.pop
 end
 
 #6
